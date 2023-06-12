@@ -17,5 +17,12 @@ Mehmet Emin Erkul : Developer
 
 
 Fatih Samed Taylan : Developer
+
+
+
 Efe Çatıkkaş - Product Owner
+
+
+
 Semanur Doğru - Scrum Master
+
