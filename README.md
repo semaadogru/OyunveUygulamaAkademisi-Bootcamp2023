@@ -2,7 +2,7 @@
 Takım U-158
 
 
-Takım Elemanları
+Takım Elemanları:
 
 
 
@@ -20,7 +20,7 @@ Fatih Samed Taylan : Developer
 
 
 
-Efe Çatıkkaş - Product Owner
+Efe Çatıkkaş : Product Owner
 
 
 
