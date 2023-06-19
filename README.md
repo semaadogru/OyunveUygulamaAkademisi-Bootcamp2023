@@ -71,12 +71,12 @@ SPRINT 1
 
 
 Sprint Review: Bu sprintte ürünümüz için gerekli tasarımları yapamadık, sonraki sprintte yapmayı planlıyoruz. Bu sprintte yeterince aktif olamadık.
-Katılımcılar: Semanur Doğru
+Katılımcılar:
+              Semanur Doğru
 
               Nursena Kacar
 
               Mehmet Emin Erkul
-
 
               Efe Çatıkkaş
 
