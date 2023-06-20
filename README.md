@@ -99,3 +99,7 @@ Unit test'ler için ayrılan zaman artırılmalı.
 Ürün çıkarımına odaklanılmalı.
 Developer team ve product owner ile bir takvim oluşturulmalı.
 
+Sprint Notları: User stroy'ler backloglar içine yazılmıştır.
+Sprint içinde tamamlanması tahmin edilen puan : 100 puan
+Puanlama Mantığı : Toplamda proje boyunca tamamlanması gereken 500 puanlık backlog vardı. 4 sprinte bölündüğünden en azından ilk sprintin 100 puan olması gerektiğine karar verildi.
+Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak storylere göre düzenlendi. En önemli gördüğümüz storylere yüksek puan verirken, önceliği daha az lan storylere daha az puan verdik.
