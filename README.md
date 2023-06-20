@@ -68,6 +68,13 @@ SPRINT 1
 
 ![sprint_1_new](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/b377e5a0-365e-49b8-ad47-4d8bdf86f4a2)
 
+![burndown_sprint1](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/53af3689-d051-4e5d-8d12-ab880dcbe807)
+
+
+
+
+
+
 
 
 Sprint Review: Bu sprintte ürünümüz için gerekli tasarımları yapamadık, sonraki sprintte yapmayı planlıyoruz. Bu sprintte yeterince aktif olamadık.
