@@ -136,10 +136,17 @@ Daily Scrum: Daily Scrum toplantıları whatsapp, zoom ve notion üzerinden yap�
 ![image](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/3c30fb2f-8bfd-4536-a3c1-d681c1cc56a2)
 
 
-Sprint Review: Oyunun ana teması ile ilgili kilit kararlar alınmıştır. Developerlarımız ile planlama yapılmıştır ve kodlama işlemlerimize başladık. G. Sprint Review katılımcıları: Semanur Doğru
-                      Nursena Kacar
-                      Efe Çatıkkaş
-                      Emin Erkul
+Sprint Review: Oyunun ana teması ile ilgili kilit kararlar alınmıştır. Developerlarımız ile planlama yapılmıştır ve kodlama işlemlerimize başladık. G. Sprint Katılımcılar:
+
+
+
+              Semanur Doğru
+
+              Nursena Kacar
+
+              Mehmet Emin Erkul
+
+              Efe Çatıkkaş
 
 Sprint Retrospective:
 
