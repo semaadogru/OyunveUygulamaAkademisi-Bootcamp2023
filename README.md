@@ -119,6 +119,8 @@ Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere gör
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 Daily Scrum: Daily Scrum toplantıları whatsapp, zoom ve notion üzerinden yapılmıştır. Ekran görüntülerini aşağıya ekledik.
+
+
 ![image](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/0a040573-86e1-422a-93e5-7959618fa6e9)
 
 
@@ -136,7 +138,9 @@ Daily Scrum: Daily Scrum toplantıları whatsapp, zoom ve notion üzerinden yap�
 ![image](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/3c30fb2f-8bfd-4536-a3c1-d681c1cc56a2)
 
 
-Sprint Review: Oyunun ana teması ile ilgili kilit kararlar alınmıştır. Developerlarımız ile planlama yapılmıştır ve kodlama işlemlerimize başladık. G. Sprint Katılımcılar:
+Sprint Review: Oyunun ana teması ile ilgili kilit kararlar alınmıştır. Developerlarımız ile planlama yapılmıştır ve kodlama işlemlerimize başladık. 
+
+Sprint Katılımcılar:
 
 
 
@@ -149,5 +153,6 @@ Sprint Review: Oyunun ana teması ile ilgili kilit kararlar alınmıştır. Deve
               Efe Çatıkkaş
 
 Sprint Retrospective:
+
 
 Bir önceki sprintlerden kalanlar ve belirlenen hedefler yerine getirildi. . Ürün belgesinde oyunumuzun son haline göre değişikler yapıldı.Görev ve story puanları Miro'ya eklendi.
