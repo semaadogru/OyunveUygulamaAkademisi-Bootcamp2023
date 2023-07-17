@@ -207,6 +207,15 @@ Sprint Review: Oyunun kodlaması yapıldı, oyun tam olarak bitirilemedi ancak k
 
 
 Sprint Retrospective: Takım içi görev dağılımı tekrar düzenlendi, oyunun teması, konusu ve karakteri netleştirildi. Oyunun son hâli oluşturuldu, oyun 18 Temmuz salı günü saat 12'ye kadar yetişirilecek şekile getirildi. 
+
+
+
+
+
+
+
+
+
 Sprint Katılımcılar:  
 
 
