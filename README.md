@@ -38,6 +38,7 @@ Semanur Doğru - Scrum Master
 
 
 
+
 ÜRÜN ÖZELLİKLERİ:
 
 
@@ -148,11 +149,57 @@ Sprint Katılımcılar:
 
               Nursena Kacar
 
-              Mehmet Emin Erkul
-
               Efe Çatıkkaş
+
+
+
+
+
+
+
+
+
 
 Sprint Retrospective:
 
 
 Bir önceki sprintlerden kalanlar ve belirlenen hedefler yerine getirildi. . Ürün belgesinde oyunumuzun son haline göre değişikler yapıldı.Görev ve story puanları Miro'ya eklendi.
+
+
+
+
+SPRINT 3
+
+
+
+
+Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+Sprint içinde tamamlanması tahmin edilen puan: 100 Puan. Elde ettiğimiz puan 
+
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Ancak henüz backlog kısmına dair ekleme yapmamız gerekmedi.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+Daily Scrum: Daily Scrum toplantıları olmadı, takım arkadaşlarımdan bir kişi dışında geri dönüş alamadım. O yüzden maalesef daily scrum olamadı.
+
+Ürünün durumu: - DEĞİŞTİRİLECEK- BU SADECE TASLAK-
+
+
+Sprint Review: Oyunun kodlaması yapıldı, oyun tam olarak bitirilemedi ancak karakter, çevre ve oyun düzeni kurulup gösterildi. Ancak kodlamayla kendi başıma uğraştığım için kodlama bitemedi henüz.
+
+Sprint Katılımcılar:  
+
+
+                        Semanur Doğru
+
+
+
+
+
+
+
+
+
