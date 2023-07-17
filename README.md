@@ -18,7 +18,7 @@ Nursena Kacar : Developer
 Mehmet Emin Erkul : Developer
 
 
-Fatih Samed Taylan : Developer
+Fatih Samed Taylan : Developer- Kendisiyle hiçbir şekilde iletişim kurulamadı. Ancak belki iletişim kurulur diye düşünerek onun da ismini Sprint'e ekledim, kendisine sorun olmaması için.
 
 
 
@@ -32,8 +32,7 @@ Semanur Doğru - Scrum Master
 
 ÜRÜN AÇIKLAMASI:
 
-
-
+Ürün, ilhamını Yunan mitolojisinden almıştır. El işçiliği ve marangozluğuyla ünlü Daedalus, Yunan tanrılarını yeteneği ile kendine hayran etmiştir. Ancak karıştığı bir olay yüzünden kaçmak zorunda olan Daedalus, Girit Kralı Minos'a sığınır. Burada da hünerini gösteren Daedalus, kendinden istenildiği için kaçılması imkansız bir labirent tasarlar. Ancak başına öyle olaylar gelir ki Daedalus ve çok sevdiği oğlu İkarus bu labirente mahkum olur. Ancak bu labirentten kaçmak için Daedalus'un aklına ir fikir gelir: balmumundan ve tüylerden kuş kanadı yapacaktır ve bu sayede kaçacaklardır. Daedalus nihayet kanatları tamamlar, ve uçmaya başlarlar ve labirentten kaçarlar. Daedalus oğlunu temkinlice uçması gerektiğini, yoksa okyanusa düşebileceğini ya da Güneş'in kanatlarını yakacağını söyler ancak İkarus babasını dinlemez ve ne yazık ki Güneş'te yanarak can verir. Bu oyunda ise İkarus'un ölmediği başka bir son yaratılmak istendi. İkarus'un yanmadığı, okyanusa düşüp şans eseri yaşadığı ve taş evler arasında hâlâ kaçtığı bir son. İkarus'un kaderi ise tamamen oyuncunun elinde. Oyuncu İkarus'un Kral Minos'tan kaçmasına yardım edecek mi?
 
 
 
@@ -42,6 +41,7 @@ Semanur Doğru - Scrum Master
 ÜRÜN ÖZELLİKLERİ:
 
 
+Klasik bir koşucu-kaçma oyunu. Oyuncu "W,A,S,D ve sağ/sol oklarlar" ile karakteri kontrol edebilir.
 
 
 
@@ -50,8 +50,7 @@ Semanur Doğru - Scrum Master
 
 
 
-
-HEDEF KİTLE:
+HEDEF KİTLE: Mobil oyun oynayan bütün oyunculara hitap etmektedir.
 
 
 
@@ -170,12 +169,14 @@ Bir önceki sprintlerden kalanlar ve belirlenen hedefler yerine getirildi. . Ür
 
 SPRINT 3
 
+![sprint_3](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/766dd3b1-2635-46b7-92aa-de7f011a416d)
 
+![sprint_3_puanlama](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/488f9bdf-6a56-4b51-b148-975bd2b15c8d)
 
 
 Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan. Elde ettiğimiz puan 
+Sprint içinde tamamlanması tahmin edilen puan: 150 Puan. Elde ettiğimiz puan 150.
 
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
@@ -183,9 +184,18 @@ Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere gör
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-Daily Scrum: Daily Scrum toplantıları olmadı, takım arkadaşlarımdan bir kişi dışında geri dönüş alamadım. O yüzden maalesef daily scrum olamadı.
+Daily Scrum: Daily Scrum toplantıları olmadı, takım arkadaşlarımdan bir kişi dışında geri dönüş alamadım. O yüzden maalesef daily scrum olamadı. Scrum Master, Developer görevini üstlendi ve kodları yazdı.
 
-Ürünün durumu: - DEĞİŞTİRİLECEK- BU SADECE TASLAK-
+Ürünün durumu: 
+
+![oyunun_son_durumu](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/83a63cab-d5ce-4689-b044-52261a6ad603)
+
+
+
+![ürün_2](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/eb87607b-4e2b-48bb-8075-5b71e6262ca2)
+
+
+
 
 
 Sprint Review: Oyunun kodlaması yapıldı, oyun tam olarak bitirilemedi ancak karakter, çevre ve oyun düzeni kurulup gösterildi. Ancak kodlamayla kendi başıma uğraştığım için kodlama bitemedi henüz.
@@ -193,7 +203,7 @@ Sprint Review: Oyunun kodlaması yapıldı, oyun tam olarak bitirilemedi ancak k
 Sprint Katılımcılar:  
 
 
-                        Semanur Doğru
+                        Semanur Doğru 
 
 
 
