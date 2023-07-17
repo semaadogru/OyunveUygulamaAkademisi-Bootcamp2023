@@ -196,6 +196,7 @@ Daily Scrum: Daily Scrum toplantıları olmadı, takım arkadaşlarımdan bir ki
 
 
 
+![ürün3](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/8b788c7f-6d74-466c-b18f-f02493f95965)
 
 
 Sprint Review: Oyunun kodlaması yapıldı, oyun tam olarak bitirilemedi ancak karakter, çevre ve oyun düzeni kurulup gösterildi. Ancak kodlamayla kendi başıma uğraştığım için kodlama bitemedi henüz.
