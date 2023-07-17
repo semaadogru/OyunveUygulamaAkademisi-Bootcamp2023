@@ -199,7 +199,7 @@ Daily Scrum: Daily Scrum toplantıları olmadı, takım arkadaşlarımdan bir ki
 
 
 Sprint Review: Oyunun kodlaması yapıldı, oyun tam olarak bitirilemedi ancak karakter, çevre ve oyun düzeni kurulup gösterildi. Ancak kodlamayla kendi başıma uğraştığım için kodlama bitemedi henüz.
-
+Sprint Retrospective: Takım içi görev dağılımı tekrar düzenlendi, oyunun teması, konusu ve karakteri netleştirildi. Oyunun son hâli oluşturuldu, oyun 18 Temmuz salı günü saat 12'ye kadar yetişirilecek şekile getirildi. 
 Sprint Katılımcılar:  
 
 
