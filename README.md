@@ -41,8 +41,8 @@ Semanur Doğru - Scrum Master
 ÜRÜN ÖZELLİKLERİ:
 
 
-Klasik bir koşucu-kaçma oyunu. Oyuncu "W,A,S,D ve sağ/sol oklarlar" ile karakteri kontrol edebilir.
-
+Oyuncu "A" ve "D" tuşlarını kullanarak karakteri okyanusa düşürmeden karakteri yönlendirir.
+ 
 
 
 
