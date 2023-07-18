@@ -222,7 +222,7 @@ Sprint Katılımcılar:
 
                         Semanur Doğru 
 
-
+                        Efe Çatıkkaş
 
 
 
