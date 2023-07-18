@@ -186,7 +186,16 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 Daily Scrum: Daily Scrum toplantıları olmadı, takım arkadaşlarımdan bir kişi dışında geri dönüş alamadım. O yüzden maalesef daily scrum olamadı. Scrum Master, Developer görevini üstlendi ve kodları yazdı.
 
-Ürünün durumu: 
+Ürünün durumu:
+
+
+
+(Bu dosya en son açılırken hata verdi, o yüzden tekrar modelledik, onun görüntülerini de ekledik. O dosyanın drive linki de burada: 
+ 
+ 
+ 
+ https://drive.google.com/file/d/1pjMf4gBJYRfwIKMCH61bxWhwq0Xi_CI2/view?usp=sharing)
+ 
 
 ![oyunun_son_durumu](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/83a63cab-d5ce-4689-b044-52261a6ad603)
 
