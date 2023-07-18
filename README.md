@@ -198,6 +198,10 @@ Daily Scrum: Daily Scrum toplantıları olmadı, takım arkadaşlarımdan bir ki
 
 ![ürün3](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/8b788c7f-6d74-466c-b18f-f02493f95965)
 
+![A](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/ba518424-46fc-4d11-a57d-4ee9a8aa1639)
+![Screenshot 2023-07-18 051718](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/7d7a2393-a1d3-4768-8ddb-49fea13ca77a)
+![Screenshot 2023-07-18 051624](https://github.com/semaadogru/OyunveUygulamaAkademisi-Bootcamp2023/assets/72140134/72b16e9d-240f-400f-8b16-d9a8a8ed406a)
+
 
 Sprint Review: Oyunun kodlaması yapıldı, oyun tam olarak bitirilemedi ancak karakter, çevre ve oyun düzeni kurulup gösterildi. Ancak kodlamayla kendi başıma uğraştığım için kodlama bitemedi henüz.
 
